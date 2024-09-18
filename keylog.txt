@@ -1,0 +1,3 @@
+hfhejs [ENTER] 
+ [Key.shift_r] pranav [ENTER] 
+git [BACKSPACE] 3 [Key.left]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [Key.shift]  [Key.caps_lock]  [BACKSPACE] cs [Key.ctrl_l]  [Key.ctrl_l]  [BACKSPACE] None
